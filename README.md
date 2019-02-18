@@ -1,7 +1,7 @@
 # DesigninSafaris
 
 
-Design in Safaris: Collab
+## Design in Safaris: Collab
 Spring 2019
 
 
