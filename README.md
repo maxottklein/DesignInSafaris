@@ -1,8 +1,7 @@
 # DesigninSafaris
 
 
-## Design in Safaris: Collab
-Spring 2019
+## Parsons School of Design | Collab Spring 2019
 
 
 Info:
