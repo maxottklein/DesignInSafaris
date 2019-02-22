@@ -361,6 +361,21 @@ div .Post4Img:hover {
 
 }
 
+/*______________________________________________*/
+
+ .Post5 {
+   transition-timing-function: ease-in-out;
+ }
+
+ .Post5Img{
+    transition: padding 0.5s ease;
+ }
+
+div .Post5Img:hover {
+  padding:10px;
+
+}
+
 
  
 /*__________________________________________________________________________________________*/
