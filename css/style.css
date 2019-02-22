@@ -346,6 +346,21 @@ div .Post3Img:hover {
 }
 
 
+ /*______________________________________________*/
+
+ .Post4 {
+   transition-timing-function: ease-in-out;
+ }
+
+ .Post4Img{
+    transition: padding 0.5s ease;
+ }
+
+div .Post4Img:hover {
+  padding:10px;
+
+}
+
 
  
 /*__________________________________________________________________________________________*/
