@@ -325,7 +325,7 @@ h2 {
 h3 {
 
     width: auto;
-    height: 37px;
+    height: auto;
     color: #212b36;
     font-family: Futura;
     font-size: 28px;
@@ -335,12 +335,11 @@ h3 {
 h4 {
 
     width: auto;
-    height: 37px;
+    height: auto;
     color: #9b9b9b;
     font-family: Futura;
     font-size: 28px;
     font-weight: 500;
-    margin-top:10px;
 }
 
 h5 { 
