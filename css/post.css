@@ -356,11 +356,12 @@ h5 {
 
 h6 {
 
-  color: #9b9b9b;
+  color: #212b36;
   font-family: Futura;
-  font-size: 18px;
+  font-size: 20px;
   font-weight: 400;
   padding-top: 8px;
+  /*margin-top: 20px;*/
   margin-bottom: 20px;
 }
 
@@ -375,16 +376,22 @@ p {
     line-height: 2;
   }
 
+  ul {
+    list-style-type: square;
+    list-style-position: inside;
+  }
+
  li {
 
-    width: 39px;
-    height: 14px;
+    /*width: 39px;*/
+    height: auto;
     color: #9b9b9b;
     font-family: Futura;
-    font-size: 11px;
-    font-weight: 500;
+    font-size: 18px;
+    font-weight: 300;
     text-decoration: none;
-
+    text-align: justify;
+    line-height: 2;
   }
 
   a {
