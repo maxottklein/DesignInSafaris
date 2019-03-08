@@ -387,6 +387,21 @@ div .Post6Img:hover {
 
 }
 
+/*______________________________________________*/
+
+ .Post7 {
+   transition-timing-function: ease-in-out;
+ }
+
+ .Post7Img{
+    transition: padding 0.5s ease;
+ }
+
+div .Post7Img:hover {
+  padding:10px;
+
+}
+
 
  
 /*__________________________________________________________________________________________*/
@@ -501,7 +516,7 @@ h6 {
 
   color: #9b9b9b;
   font-family: Futura;
-  font-size: 18px;
+  font-size: 18spx;
   font-weight: 400;
   padding-top: 8px;
   margin-bottom: 20px;
