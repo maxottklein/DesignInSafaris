@@ -5,7 +5,7 @@
 }
 
 body {
-  color: #212b36;
+    color: #212b36;
     font-family: Futura;
     font-size: 40px;
     font-weight: 700;
@@ -402,6 +402,21 @@ div .Post7Img:hover {
 
 }
 
+
+/*______________________________________________*/
+
+ .Post8 {
+   transition-timing-function: ease-in-out;
+ }
+
+ .Post8Img{
+    transition: padding 0.5s ease;
+ }
+
+div .Post8Img:hover {
+  padding:10px;
+
+}
 
  
 /*__________________________________________________________________________________________*/
