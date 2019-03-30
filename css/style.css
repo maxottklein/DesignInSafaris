@@ -418,6 +418,22 @@ div .Post8Img:hover {
 
 }
 
+/*______________________________________________*/
+
+ .Post9 {
+   transition-timing-function: ease-in-out;
+ }
+
+ .Post9Img{
+    transition: padding 0.5s ease;
+ }
+
+div .Post9Img:hover {
+  padding:10px;
+
+}
+
+
  
 /*__________________________________________________________________________________________*/
 
